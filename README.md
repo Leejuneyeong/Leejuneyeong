@@ -9,6 +9,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejuneyeong&show_icons=true&theme=highcontrast)
 
 
+<h1 align="center">Hi 👋, I'm Lee june yeong</h1>
+<h3 align="center">I want to be A passionate developer from Korea</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <!---
 Leejuneyeong/Leejuneyeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
