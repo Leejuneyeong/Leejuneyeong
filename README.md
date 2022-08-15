@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lee june yeong</h1>
 <h3 align="center">I want to be a passionate developer from Korea</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leejuneyeong&label=Profile%20views&color=0e75b6&style=flat" alt="leejuneyeong" /> </p>
 
