@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://)
+![androidchallenge](https://user-images.githubusercontent.com/48881531/184574612-e252b215-1e3f-4748-bef4-d96d155fb30b.gif)
 
 <h1 align="center">Hi 👋, I'm Lee june yeong</h1>
 <h3 align="center">I want to be a passionate developer from Korea</h3>
